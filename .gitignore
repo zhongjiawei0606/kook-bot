@@ -137,6 +137,5 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.gitignore.io/api/node,windows,visualstudiocode
-public/config.json
-builds/
-dev-config.js
+
+src/config.json
