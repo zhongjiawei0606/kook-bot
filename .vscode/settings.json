@@ -1,0 +1,12 @@
+{
+    "conventionalCommits.scopes": [
+        "session",
+        "pkg",
+        "requester",
+        "API",
+        "command",
+        "logger",
+        "webhook"
+    ],
+    "typescript.tsdk": "node_modules/typescript/lib"
+}
